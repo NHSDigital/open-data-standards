@@ -5,3 +5,9 @@ This draft of open data CSV standards has been collated and reviewed by the open
 You can see the draft standards here: [open data standards](open-data-standards.md)
 
 Please contact us on datascience@nhs.net if you want to discuss these draft standards
+
+
+## Licence
+Data Analytics Services codebase is released under the MIT License.
+
+The documentation is © Crown copyright and available under the terms of the [Open Government 3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) licence.
