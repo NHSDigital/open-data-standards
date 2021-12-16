@@ -58,7 +58,7 @@ further defined and clarified by project maintainers.
 
 Instances of abusive, harassing, or otherwise unacceptable behaviour may be reported by
 contacting the project team at
-[gsshelp@statistics.gov.uk][email-address]. All complaints will be
+[datascience@nhs.net][email-address]. All complaints will be
 reviewed and investigated and will result in a response that is deemed necessary and
 appropriate to the circumstances. The project team is obligated to maintain
 confidentiality with regard to the reporter of an incident. Further details of
@@ -81,4 +81,4 @@ and the `alphagov` Code of Conduct available at
 [civil-service-code]: https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code
 [contributor-covenant]: https://www.contributor-covenant.org
 [contributor-covenant-code-of-conduct]: https://www.contributor-covenant.org/version/1/4/code-of-conduct/
-[email-address]: mailto:gsshelp@statistics.gov.uk
+[email]: mailto:datascience@nhs.net
