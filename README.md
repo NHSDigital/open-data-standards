@@ -4,7 +4,7 @@ This draft of open data CSV standards has been collated and reviewed by the open
 
 You can see the draft standards here: [open data standards](open-data-standards.md)
 
-Please contact us on datascience@nhs.net if you want to discuss these draft standards
+If you would like to comment on these standards please use the [issues tab](https://github.com/NHSDigital/open-data-standards/issues). You will need to log into github to comment. Alternatively, you can contact us on datascience@nhs.net. 
 
 
 ## Licence
