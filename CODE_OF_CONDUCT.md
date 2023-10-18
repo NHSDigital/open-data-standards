@@ -70,7 +70,7 @@ project's leadership.
 
 ### Attribution
 
-This code of conduct is adapted from the [ONS best practice team template][https://github.com/best-practice-and-impact/govcookiecutter]. 
+This code of conduct is adapted from that included in the [`govcookiecutter`](https://github.com/best-practice-and-impact/govcookiecutter) project. 
 This in turn was adapted from the [Contributor Covenant][contributor-covenant],
 version 1.4, available at
 [https://www.contributor-covenant.org/version/1/4/code-of-conduct/][contributor-covenant-code-of-conduct],
